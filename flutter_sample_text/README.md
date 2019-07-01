@@ -8,4 +8,4 @@ It is a Sample for Text Widget usage for multiple styles
 
 Text.rich helps to use multiple styles on the same text using TextSpan.
 
-![Screen Shot](/ScreenShot.png)
+![Screen Shot](/flutter_sample_text/ScreenShot.png)
